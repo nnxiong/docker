@@ -1,0 +1,1 @@
+A Docker base image
