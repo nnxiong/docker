@@ -1,2 +1,3 @@
 A Docker base image
-create the miniconda env
+
+To create the miniconda env
